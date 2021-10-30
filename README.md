@@ -1,6 +1,6 @@
 # Getting-Data-from-Quandl
 
-This tima, I would like to run a simulation in Jupyter Notebook to download stock price from Quandl/Nasdaq. 
+This time, I would like to run a simulation in Jupyter Notebook to download stock price from Quandl/Nasdaq. 
 
 1. First thing first, we need to install Quandl
 
